@@ -1,4 +1,4 @@
-# 🙋‍ 2022.2 - Módulo WEB - Turma 2 - HURB
+# 🙋‍ 2022.2 - Módulo WEB - Turma 4 - HURB
 
 ## 🔍 O problema:
 O problema a ser resolvido dentro do Hurb é a exploração da receita de antecipação a fornecedores. Para hotéis que se enquadram na regra de negócios padrão, há a oferta de modelos de antecipação do pagamento 
