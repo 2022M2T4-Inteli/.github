@@ -25,7 +25,7 @@ Parceiros Hoteleiros
   
 - Grupo 4 - F.L.I.G.H.T. - Desenvolvimento WEB "Sistema de Antecipação de Receita de Hotéis Parceiros":
   - Link para acessar: 
-  - Link do repositório: https://github.com/2022M2T4/F.L.I.G.H.T.
+  - Link do repositório: https://github.com/2022M2T4/F.L.I.G.H.T. 
   
 - Grupo 5 - Hurb para parceiros - Desenvolvimento WEB "Sistema de antecipação de receita de hotéis parceiros":
   - Link para acessar: 
