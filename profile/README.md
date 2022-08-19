@@ -1,13 +1,13 @@
 # 🙋‍ 2022.2 - Módulo WEB - Turma 4 - HURB
 
 ## 🔍 O problema:
-O problema a ser resolvido dentro do Hurb é a exploração da receita de antecipação a fornecedores. Para hotéis que se enquadram na regra de negócios padrão, há a oferta de modelos de antecipação do pagamento 
+Pequenos e Médios Hotéis brasileiros possuem um problema de capital giro em seus caixas, principalmente na Baixa Temporada. O Hurb possui uma solução de adiantamento de recebíveis para hotéis que não é amplamente conhecido e distribuído na sua base de fornecedores.
 
 ## 🎯 O objetivo:
-Desenvolvimento Web com o objetivo de facilitar o processo de antecipação do recebimento das diárias pelos hoteleiros parceiros do Hotel Urbano. 
+Uma aplicação web para fácil distribuição desta solução entre a base de fornecedores do Hurb. Nesta aplicação, é possível logar, solicitar novos adiantamentos, acompanhar solicitações antigas e aprender sobre este produto.
 
 ## 🧩 O público-alvo:
-Parceiros Hoteleiros
+Pequenos e médios hotéis, que sejam da base de fornecedores do Hurb, e que precisem de capital de giro.
 
 ## 💻 Desenvolvimento WEB:
 
