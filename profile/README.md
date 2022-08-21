@@ -28,5 +28,5 @@ Pequenos e médios hotéis, que sejam da base de fornecedores do Hurb, e que pre
   - Link do repositório: https://github.com/2022M2T4/FLIGHT
   
 - Grupo 5 - Hurb para parceiros - Desenvolvimento WEB "Sistema de antecipação de receita de hotéis parceiros":
-  - Link para acessar: 
+  - Link para acessar: https://hurb-para-parceiros.herokuapp.com/
   - Link do repositório: https://github.com/2022M2T4/Hurb-para-parceiros
