@@ -12,7 +12,7 @@ Pequenos e médios hotéis, que sejam da base de fornecedores do Hurb, e que pre
 ## 💻 Desenvolvimento WEB:
 
 - Grupo 1 - Web Crias - Desenvolvimento WEB "Hurb Antecipações":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T4/Web-Crias
 
 - Grupo 2 - Weberts - Desenvolvimento WEB "HU payments":
@@ -20,11 +20,11 @@ Pequenos e médios hotéis, que sejam da base de fornecedores do Hurb, e que pre
   - Link do repositório: https://github.com/2022M2T4/Weberts
   
 - Grupo 3 - Web Power - Desenvolvimento WEB "Antecipação de Parceiros":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T4/Web-Power
   
 - Grupo 4 - F.L.I.G.H.T. - Desenvolvimento WEB "Sistema de Antecipação de Receita de Hotéis Parceiros":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T4/FLIGHT
   
 - Grupo 5 - Hurb para parceiros - Desenvolvimento WEB "Sistema de antecipação de receita de hotéis parceiros":
